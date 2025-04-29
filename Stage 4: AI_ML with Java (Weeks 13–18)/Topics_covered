@@ -1,0 +1,3 @@
+Libraries: Weka, Deeplearning4j, Tribuo, Smile, Java-ML
+Build: ML model using Smile or Weka (classification, clustering)
+Optional: Switch to Python here for ML — most production models are Python-based.
