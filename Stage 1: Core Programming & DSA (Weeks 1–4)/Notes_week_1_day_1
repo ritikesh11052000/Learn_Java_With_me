@@ -1,0 +1,25 @@
+1. Introduction to OOP (Object-Oriented Programming)
+    OOP concepts overview (Encapsulation, Inheritance, Polymorphism, Abstraction)
+    Real-world analogy and importance in interviews and real software
+
+
+
+Notes:- 
+
+    1. Classes & Objects
+    Think of a class as a blueprint or template for creating objects. Just like a blueprint of a house contains details about walls, windows, and doors, a class defines the attributes (variables) and behaviors (methods) that an object can have.
+
+    Class: A blueprint.
+    Object: An instance of a class.
+
+
+    Example:
+        Imagine you're building a system to manage employees in a company.
+
+        Class: Employee
+
+        Attributes: name, age, department
+
+        Behavior: work(), attendMeeting()
+
+        Object: employee1, employee2
