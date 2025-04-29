@@ -5,6 +5,7 @@
 Tools: IntelliJ / Eclipse, LeetCode (Java track), GitHub
 
 
+Week 1: Java OOP, Collections, Exception Handling
 🔹 Topics:
 Java OOP: Classes, Objects, Inheritance, Polymorphism, Abstraction, Encapsulation
 
@@ -20,3 +21,4 @@ Java code examples (you write, I guide)
 LeetCode questions involving collections (e.g., use HashMap in problems)
 
 Mini project idea: Student Record System
+
